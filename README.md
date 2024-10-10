@@ -11,7 +11,7 @@
    git clon https://github.com/wedz0zur/practical_work_1
 
 
-2. Установите зависимости:
+2. Перейдите в папку practical_work_1 с помощью команды cd practical_work_1 установите зависимости:
 npm install 
 
 3. Запустите сервер:
