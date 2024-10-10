@@ -1,5 +1,5 @@
 
-Keyword Downloader
+
 
 ## Описание
 
@@ -8,8 +8,7 @@ Keyword Downloader
 ## Установка
 
 1. Склонируйте репозиторий:
-   ```bash
-   git clone <repository_url>
+   git clon https://github.com/wedz0zur/practical_work_1
 
 
 2. Установите зависимости:
